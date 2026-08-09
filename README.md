@@ -85,18 +85,3 @@ NLP pipeline for semantic similarity detection using Word2Vec embeddings, benchm
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- IMPORTANT: replace "your-github-username" below with your real GitHub username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" alt="Abhishek's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username" alt="Abhishek's Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact" alt="Top Languages" height="165"/>
-</p>
-
----
-
-<p align="center"><i>Last updated: August 2026</i></p>
